@@ -13,6 +13,8 @@ import { CalculatorModule } from './calculator';
     CalculatorModule
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [
+    AppComponent
+  ]
 })
 export class AppModule { }
